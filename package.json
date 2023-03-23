@@ -1,0 +1,12 @@
+{
+  "name": "editorjs-mention-tool",
+  "version": "1.0.1",
+  "description": "Mention Tool plugin for Editor.js, use @ and $ to print variables.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mention", "mentiontool", "editorjs", "editor.js", "plugin", "@", "$", "tool", "variables"],
+  "author": "kreu",
+  "license": "ISC"
+}
